@@ -11,9 +11,11 @@ app.get('/allData', (req, res) => {
     console.log('fake data')
     res.send(allFakeData);
 })
-app.get('/allData:id', (req, res) => {
+app.get('/allData/:id', (req, res) => {
    const id = req.params.id;
-   console.log(id)
+   console.log(id);
+   const seletedData = allFakeData.find(n => n.id == id);
+   res.send(seletedData);
 })
 
 app.listen(5000, () => {
