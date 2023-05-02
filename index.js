@@ -8,7 +8,8 @@ app.use(cors());
 const allFakeData = require("./fakeData.json");
 
 app.get('/allData', (req, res) => {
-    res.send({allFakeData});
+    console.log('fake data')
+    res.send(allFakeData);
 })
 
 app.listen(5000, () => {
