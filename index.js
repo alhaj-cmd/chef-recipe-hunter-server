@@ -8,12 +8,12 @@ app.use(cors());
 const allFakeData = require("./fakeData.json");
 
 app.get('/allData', (req, res) => {
-    console.log('fake data')
+    // console.log('fake data')
     res.send(allFakeData);
 })
 app.get('/allData/:id', (req, res) => {
    const id = req.params.id;
-   console.log(id);
+//    console.log(id);
    const seletedData = allFakeData.find(n => n.id == id);
    res.send(seletedData);
 })
