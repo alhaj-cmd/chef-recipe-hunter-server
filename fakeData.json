@@ -1,284 +1,284 @@
 [
-  {
-    "chef_picture": "data:image/jpeg;base64,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",
-    "id": 1,
-    "chef_name": "Md.Rahmot",
-    "years_of_experience": "2-5 years",
-    "number_of_recipes": 1250,
-    "likes": "15k",
-    "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-    "recipes": [
-        {
-            "recipe_name": "Burger",
-            "ingredients": [
-                "burgger",
-                "fuska",
-                "chicken fry",
-                "rice noodles",
-                "fish sauce"
-            ],
-            "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-            "rating": 4.5
-        },
-        {
-            "recipe_name": "magi noodles",
-            "ingredients": [
-                "rice noodles",
-                "shrimp",
-                "bean sprouts",
-                "tofu",
-                "eggs"
-            ],
-            "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
-            "rating": 4.8
-        },
-        {
-            "recipe_name": "Potatos",
-            "ingredients": [
-                "coconut milk",
-                "green curry paste",
-                "chicken",
-                "eggplant",
-                "popato"
-            ],
-            "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-            "rating": 4.2
-        }
-    ]
-  },
-  {
-    "chef_picture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUWFRgVFRUYGBgYHBwaHBgYGBoYGBgaGBgcGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQrISQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUGB//EAEUQAAIBAgMECAIGBwUJAQAAAAECAAMRBBIhBTFBUQYTIjJhcYGRobEHQlJiwfAUM3KCkpOiI7LR4fEXJDRUc6OzwtIV/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECBAMF/8QAIxEAAgICAgMBAAMBAAAAAAAAAAECEQMhMUEEElETIjJCcf/aAAwDAQACEQMRAD8A7yFoQk0UJaBWLEiYDGSIEHKSMIgEQDerETqRykohaICLqF5RP0ZeUsgRbRhZUOFXxh+ijxlsQiAonCeMQ4U85fAiERAUGw5kNWmwmg7WnlvSnpW+JdsPh2K0lNnqqbGp91fu7/Py3gf8NHbvTOjRYogNaoNCq90HkX1+F5xuP6R4+o11vTXgqAC3K5OpMuYLBIoAVbW48T4k8ZpJhV+z8Jml5UIOkjVDxJSW2c3h+kGOpm7FmHJ1v8RrOl2d0zp1LK90a2tz2b+Bg+HFtwmNtbY6upZRlYcQN/gYoeTjyOmqCfiShxs7OjtVTqGBHgZcp42+5vjPItkYw0KwzA5b2dTyO825jf6T0/DYVGAdbFWAII4gi4M6yjKL50ZTXp1SeMtKTK+zqag2M1f0dZcbaGU7xDLjYURpwvjKpgUmEZYS42FPORHCtzhsDj8sJJ1JhKEekQgTCUgCJFgRJbAQwAgY9BEAARwEAIto3oQWhFiExWMLQiiEVgJaNaPjGk2M5L6Q9omlgnCmzVSKS/v3D+Ryhp5vgcOEUADlfmZ2f0qaphkH1q4+C2/9pzdRFBBYgDTWc88mopLs7+PFOVsubOpDjNijQBlDZzUGAC1FvyvYzoaGySbWOnOeTOEnLg9VOKWmU3wi2PGZGJp8J0NSnTW46xT+8OExcZbeDcXtBxca1RLkmcZ0mwa98b+PiJ0P0fbQz0monfTN1P3XJ09Df3Ex+kpsngdPeSfRqp66ob6BBf1YW/Gevhbnh2eV5CSyaPSKWk2cM91BmQk1MAND5yoaZyLIWFpIBEKzqBFaIFkhEAIUBxVoR9okoR3VoRbRQIgEELR1ooiAjYR6iI0eoiAW0IogBABLQtFihZKQDbQjisMsKAbGOI+NaAHCfSVTBTC8xiF9spJ/uzz7adf+0C2vqBcglQCdSba28p6h08oK1OmxFyrkqeRtqfacSmAFySLnnM+XNGLVrg14MTlHTMitgyyO4FKmKJsGUOrVjcrmSwsRZQxJto038HtVmwv1s27jrYcD6SHEqQoS2h0sNLzSw+AK0V043AmfNnUoqka8eNxtNnOYPCMoavlSo4a3VFHYkFSQ5Y2XvWG+438LGWnVfOVNOwBsGS5RvK4BE6jC4YFbgeBk9XZ4yFtAN3rJl5EZRpxCOKSldnB9Kh/Zr+0Pk02Po5wRVajsLFioAO/KL628SfhG4zCBnQHcrBiOYGp/PhOr2dSAdyoFvDdrYi3pO+LPUIwS5M+bDbc2+DQQTYwI7EzFWaWAGk1R5MTLcIQnQBLRto+JaMRxdoRbQjEd1CEJNgJFEW0BHY6GsNI+NePWS+RigRbRRHWiYEdo+0dlixWIbaGSOhACJlkbSdxInETEcn08t1C9m5zEg/ZsupnHYXFqAC+nnPU8XQDoyMLhlI18RaeQY7DEDIdGUlG81Mx+RC5Jvs3+JOk18JcftNSQwW9gQFBtvOs0326clNVpFsi7t3p56zkndluMob7xNgPOdBh0rmmrFEXTvE6ZdLfjE8aSNkW5bRrYDGZSWGhJuVvpu3Szi9oZxpoOU55xVJBIQDmua59DwlrDEcZmyR1oFJ3RFlvUUeO46X8J12zKQyAjTMSfiQPhOd2KofEgWuFVmN9eFvmwnWqJo8fHxJmHyMn+Q6ua2HSyiUsGtzNFBN0fpkCEcYksQ2KIQELGcVCLCWSdupigzKoKhAtUP8RkuW26p8ZyUk+yqZpXhM6gHIvnv7STtjiI7AutujhMynVqkXsPjFbF1ACcoNogNPNHhplri34p8Yv/AOhrYoYCo080deZh2io3gj0ijaSePsYrCjTheZp2mn2vSOTaCH6w94WgL95G0gXFKfrCSq4O4xgMcTz3p/s0Iy1k+ubOPvACzeo+U9Eacn0/UfowvvDqQOYsQw+M5zimtl4puMlR5xTfMRu5TXwODdho5yjcOFuVpz7UiCchJB4biJv4XGuECi+nhz3zhKD6N8cirZNWJGkp9ba9o5wzG50Hj6wSkCNN3Oclha2xvNb0anRNh1j3OpUW597UD4TqS5nL9EdmVsRU61BkwyaNUYfrCrqxSlz1Sxbda43zqsQhVipGoNpqUHGKvsw5Je0mXdnnQ85eExsLVyt5zWV51i9Uc2iQmF4zrBFDiUIWAhFEYzi4RISyTRprpGVuHnJ1QWlXE8PCeM9I9BImpCJXc8z7mOp0+N5BiQdDeJypB62WsPUZRoxHheKcU5axY2jEU2kIJDcIKckuWHqvhoU8e40uD5iIu0HJv2faV3UyBCdRGss1qxfnH4Xqm0i3ZyrrJ0xwA1QehmKr9vdLd/CVHPO+RPFH4W3xSFgcmgkq1aVtVPrMxPxlxEJ3CVHPkbIeKJNQSm72AO70mtSpBRYTMweAcNm3azUZDbWbcKnKNyVGefqn/FjHqgcbzz36T2rBKFVQeqRmWoLXALZShPsR7c53hW5A8YtLCpURkqqGR1IZTuIbhNCgqOd1s8VegCQw3HiJrYfAkpmzkDzEr43AHC16mHuXVHIUnfkPaQE8TkZfWbWwNlLjMQtFtKKJ1lVRcF9cqJfgpa5PgLcZi9Je/oekpxUPejLwOFau5TDo+IYb8g7Kn79Q2Vfe87fY/wBH7NZsY+7XqKLEL5VKnebyGUec7vC4dEUIiKiqLBVACgcLASa02RxRiYpZnIgOHVUCIoVQAAqgAADgAN0wdt9H0rEsKlSm5AsyPppuuhuD8D4zoyCZGEBufT2jlFNUzknTtHie2ae0MK9qlRipPZcAFG9baHwMy8R0xxyGwYN5rf5T3TFYVHVkdAykWsdQRynm23fo9ysXo1WCb8pAYp4X3kTj+bUrXB3WWLjtUzKwnSrFsoZmQE8Mv+c1Nh9JcQ+ISm+TK17kLY6KTz8JyG2tn1sMFPWh1ZrWy2PprNXolVDYmnz7V/4DM84zhLb5NMXinB0to9WUxRI6Z0kgmsxHFwi2hKJNgDSU8RqZdaUyLt6zyJcUeguCzTGkr11ubS0JXQXcyXtUUToLLKxW5B8ZabQSvTHdifA+ixU3SovelqsdJXAsCfASWCGhe1eXFSV8MtyTNrZWFzEngvxJ3Tpig5Spdkzl62yPC7N0LN7TSp4a3AS4tLS3jHlNZ68MUYKkjBKcpPZAVkNfQAcTJ8QbWA3n5SDLc+J08gJ2IMjHmq1Wjh6NTqndatQvkVyFpZAAFbTVnHtBNkY9QAcfTsNB/uq3/vy1ggHx9RhqKFFKQb79Vutdf4RS9xNljc2tuv5Q30JnFY3oRUquatTHku2/LRRRoqroLm2ir7TY6M9HUwru/XM5cKpuir3CSvd3d5veby0hvtJ0Qcomld1sftKqvQoe+4epjrW8+cW8Rd2sTENb4mKi8OUDprBBpAZEy/AyN0k7DXzgFufAfGAjhemfRAYlB1bBHU5gD3HPI8V8xPPth4GrQxqU6iFHGa4O42U6g8R4z3t6YPCZm0NjpUyllBZLlG+svOx5HlOWSDlwdYT9U10Y2GxPAy+jXmXiMMyNlYW5HgfKOoYggi+6SnXIjn7wkHXiE6WI36m6VqY7Us1t0hoLqZ5LWzf0TtukGGHaMnfdI8MNSYmtjvQ6sdIzDDQHwjq+6Oww7MmtjfAmJ3SFu4fSS4ncZE/c9opLkr4PwI0J8Z1uyqGVB46n1F5zexqOcqvM6+Q1PynXU9/55Td4UP8ARk8mW6HIt2PIRXIGpiK4GY+MrMxaegzKQklmJ9BLeHoBRdvWLQo2EpdIqxXDVArZWderQ8nqsKaH+JxALK/RwhkasBbr3er5qbJTP8tEmkq6xMLRCKqKLKoCgDgF0A+Eny3MZL5HIsliCI0ChGEdeIBC8kBDrHGCw84AMqbrx4iQXdAQsLQJ0igQoZSx2EFRSh0I1U8jOUrUmVrMLEHWdqw4/nSc/wBJeqUB86KwYKQzqpN9RYE7/DkZzlC9jTPPISD9JT7afxCEBnY1Y2gN8c5iUZ5xu6HVN0ZhxoY6sYlHuzm+R9CVzpHYcdmRV90lo90SUtlPhDMSdDIqh7ElxG4yGr3JLfJXw2+itO5vyB+P5M303+ekyeiadgnnYe3+s1Su+et4saxowZ3c2RVCQTpxjqL3I0hiBx/OovGYYdoTS9HFGhaYm2RnqYWnpZqpqMD9mihdf6yk2i0wHfPjWW2lGiuv3q7km37tIe8QjaCWtffJCJFT5yeOqAWJC8IDozNt7TaiaSogZqjsuoqGwVGe+VFZjuA3cZlv0kqCp1RooHdylJTUYBgHZQ7NkIKFVLdm5U2VgCZvYvAU6tusRXynMuYXKmxF1PA2JEhbYmGOYmil23nLYk5s178Dm1uNb6yQMTB9MlaqKT0cu8OwcvkKI7u5GQAoChXNe5zLprMzau1WxVClWVGRCWDJmDZGVtM5UkarlYcrzrH2DhioU0Uygg2FwNENMaDhkZlI3EGWsPgqaFyiBc5DMBoCQoUHLuGigacpMl7Kjrgy/lkU6ujH6IBxSOe9r9nN9m2thyvOhEY3Pl8ojvpfnKiqSQsuX9JuVVYr7j+eMfIwbj885II2chGnKdMOiqYpBTDsjVHXt94Kyi4IXTU5bb+M6syDGUswTWxDq1+Vvz8Y4umKStHg/wDs5P8AzP8A2z/9Qnod4kNC2DGOp7pE0lp90Txj1HwR1jH0+7Iq5kv1ZPYNaRDWMnTuiQVZPwElFPoixG6MrjsR9fdHPTzBU+0wHuZNXZT0dT0ep5aKeIB9xeX1XWJhFsoA/PCPTfPbxxqKXw82buTZTxJ09vmR8rR2H3RuOG/wIPof9BHYbUTozmWCZk7KXNUxFTg9UgHjloolEjyzo/vNOvUCKzncilj5KCT8pmdGqBXD08wIZl6x7/bqsaj/ANTmAI1Vk0gXVvKTxjQARbQBgTEwAxREEWCEIYoheEKACJBiBZT4EfO34ycGQ4gjKb+A9zaCAajbpOJTwjXGu8aHzG+XAYNAEZXHZ8iD7GPERxoZIHB54SrmMIwJGMn4CVxJnO6eSeiyGqdZYbcJWY6yw/Cc/pT6IasstuEqvvEsVDoJP0cuUR4jdNDZdLM6fd7XwsPnM6vwm9sSnozentvnTBH2yJE5n6xZu4fcPX5xQY3Dnsj1hPZSPOIMX8CLfGJg27PrFxHdvylag9my89YMCPpBUvRKDU1mSkANNKjZX9kzn0mjmsunGY2IcPjadO1xRRqx+67k0qf9HXzayai/K8BD6KWksRRBmtGMWIovr7RFW+pj4mAogYQgIIhixhYDjGA4SliySbcBv9NfwktbEAbpSeoxFgN++OKBk+HNiwtvOYfvC/zvLa7pQpiwFzqBY+R1Hxl+nuEUlsESQ4QgDJA85hJOrH5MIAMG8SZ5BT1MkqvYTxz0XyRKdfWWGOsqIO0PCWU3yVZT5GN3hJ6vCQX7Qk77xJ6YPkjq7x5zqNmU7IviL+85rJmdRzNvedbTW3lNXhw/k5HHyZaSLFPuj1gYfVkTPPUXBkErnsn88ZTqXvpv3yziW7BPhKjVQq5zoqqWPkoJPyiYFfYNQVHxGIUg56hpqbfUw/8AZ28e31h/em8vMzE6J4YphKCsAGyKz/tv23/qYzcEKEPEaoubwAjwIxCmNzgHz4xxjXW4tFQx94SCm9uyY5mPARiG1nO4Su4P+UsIh3mPC634wTSAqphuLR7qANBLRkOIICljuAv7QsKM1qlntwI18Bw+NvjNLDG4vMlOJO86nw5D0mpgF7A/PGU2CLF4KIExQJzbGcBCEIhFakYVWk36M6JmZGA5kaSNMM73KIWG7SeS0+D0U1djcPxMnQxi0Xy6KdND5jfER/H2k8FK3sVe9Jm7wlek12k9+1IfAdlvZyXrL90E/gPnOlQGYew1u7nkFA9bk/hN9NNDPS8SNQv6ZM7uQ5d1pGTcSWQje3nNiOJWxbdg+nzmH0hrWwdUDe6ikv7VZhTX17U3MZ3W9PmJj7Tp5v0dLXzYmm38pXq390EJcko6OmthYcNPQaSeQpJUMAHrHiNUxYDFgIGIImBDXTjHU2uLHeJIwkNrGHKESxbxqtHESRhKe0H0VftG58l1+eX4y5aZ+LJLDwIA+JP4e0pcgU6q5dZqYdwFAPIfKZO0D3F+2yr6X1+F5phLym03QifrRJka+sqhQNALydBbSQ0hnA3hFvCIDV2rjQ1BkCkm3yImfsXaQRMpXUknfzmiMIrIrZrAi9/PWc8+G/WuyugB7L3Uhrk6gcP85jlGmmtneKtNF/amHWvRKFmTM4Yld+hvaYWH2YtCo2R2KsBoRYDynUbNwRKqL8BrxkG29nHI9iCVBO+1rDQzllhJxujRDO4r870zJwr9sjwl1DckzOwamwY7yJpUU4czaZkrHezd2EFC3JALHibeAm5kPAyrgkyjLwsJK+FQnMBlb7S9k+ttD63ns44+sEjFOXtJscxPGVnazeYjwXQ9qzr9q1mHmBofMW8pXxJ1v5H0/wBLzoQJjtUPpf3mYz/7zh0+5Xqeq9VTB9qje80MYbpM6imbGr9zDsP5tVN/8mJgdHYC3iNY9TGqIsa4AkEfGARwiAUCEa0WIAMY4jxFtBMCLyjwsWF4NgNdrC/KUmF8vnc+Z1/GWcQdLczb/H4SCubAty/wjQMzCQa2Y65BYD7zak+2X3mmrnyEydnElmJ4tf3F5s0RBiJqScY9oto1jqIhnAwi6wgBt4f9VT/YX+7M7aX6hvT5whM8P6ouJtbC3J5D5Sttvu1v2T8oQlT/AKguTn6e4eX4SzQ7w/aHzESE85dGw7Gju9JOsIT2ejANqTOxX+PyiQggErfq/wCGZ2B/4x/+hS/8laEJLGdGnGKIQghEicY4QhGDEjjCEkAiNCEAQRIQgCIMR3l9flIsd3D+eUISkBl7P3nz/CbOHhCDAtCM4whEBwUIQiA//9k=",
-    "id": 2,
-    "chef_name": "Md.Sobuj",
-    "years_of_experience": "3-5 years",
-    "number_of_recipes": 1000,
-    "likes": "40k",
-    "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-    "recipes": [
-        {
-            "recipe_name": "Burger",
-            "ingredients": [
-                "burgger",
-                "fuska",
-                "chicken fry",
-                "rice noodles",
-                "fish sauce"
-            ],
-            "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-            "rating": 4.5
-        },
-        {
-            "recipe_name": "magi noodles",
-            "ingredients": [
-                "rice noodles",
-                "shrimp",
-                "bean sprouts",
-                "tofu",
-                "eggs"
-            ],
-            "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
-            "rating": 4.8
-        },
-        {
-            "recipe_name": "Potatos",
-            "ingredients": [
-                "coconut milk",
-                "green curry paste",
-                "chicken",
-                "eggplant",
-                "popato"
-            ],
-            "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-            "rating": 4.2
-        }
-    ]
-},
-{
-  "chef_picture": "data:image/jpeg;base64,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",
-  "id": 3,
-  "chef_name": "Md.Masud",
-  "years_of_experience": "2-4 years",
-  "number_of_recipes": 1150,
-  "likes": "10k",
-  "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-  "recipes": [
-      {
-          "recipe_name": "Burger",
-          "ingredients": [
-              "burgger",
-              "fuska",
-              "chicken fry",
-              "rice noodles",
-              "fish sauce"
-          ],
-          "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-          "rating": 4.5
-      },
-      {
-          "recipe_name": "magi noodles",
-          "ingredients": [
-              "rice noodles",
-              "shrimp",
-              "bean sprouts",
-              "tofu",
-              "eggs"
-          ],
-          "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
-          "rating": 4.8
-      },
-      {
-          "recipe_name": "Potatos",
-          "ingredients": [
-              "coconut milk",
-              "green curry paste",
-              "chicken",
-              "eggplant",
-              "popato"
-          ],
-          "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-          "rating": 4.2
-      }
-  ]
-},
-{
-  "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nKISW1IUKcax8uQh8PwmCInlHjg5BS2ZPg&usqp=CAU",
-  "id": 4,
-  "chef_name": "Md.Ashiq",
-  "years_of_experience": "1-3 years",
-  "number_of_recipes": 1050,
-  "likes": "60k",
-  "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-  "recipes": [
-      {
-          "recipe_name": "Burger",
-          "ingredients": [
-              "burgger",
-              "fuska",
-              "chicken fry",
-              "rice noodles",
-              "fish sauce"
-          ],
-          "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-          "rating": 4.5
-      },
-      {
-          "recipe_name": "magi noodles",
-          "ingredients": [
-              "rice noodles",
-              "shrimp",
-              "bean sprouts",
-              "tofu",
-              "eggs"
-          ],
-          "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
-          "rating": 4.8
-      },
-      {
-          "recipe_name": "Potatos",
-          "ingredients": [
-              "coconut milk",
-              "green curry paste",
-              "chicken",
-              "eggplant",
-              "popato"
-          ],
-          "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-          "rating": 4.2
-      }
-  ]
-},
-{
-  "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0XMnjTZxnK5zwJkYYI582Td21uvNlgagYA&usqp=CAU",
-  "id": 5,
-  "chef_name": "Md.Sabbir",
-  "years_of_experience": "1-4 years",
-  "number_of_recipes": 1156,
-  "likes": "20k",
-  "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-  "recipes": [
-      {
-          "recipe_name": "Burger",
-          "ingredients": [
-              "burgger",
-              "fuska",
-              "chicken fry",
-              "rice noodles",
-              "fish sauce"
-          ],
-          "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-          "rating": 4.5
-      },
-      {
-          "recipe_name": "magi noodles",
-          "ingredients": [
-              "rice noodles",
-              "shrimp",
-              "bean sprouts",
-              "tofu",
-              "eggs"
-          ],
-          "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
-          "rating": 4.8
-      },
-      {
-          "recipe_name": "Potatos",
-          "ingredients": [
-              "coconut milk",
-              "green curry paste",
-              "chicken",
-              "eggplant",
-              "popato"
-          ],
-          "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-          "rating": 4.2
-      }
-  ]
-},
-{
-  "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR_STjEjvFDTTq8WWbO5KvK9iJRmsvuM5XA&usqp=CAU",
-  "id": 6,
-  "chef_name": "Emran",
-  "years_of_experience": "2-4 years",
-  "number_of_recipes": 1350,
-  "likes": "25k",
-  "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
-  "recipes": [
-      {
-          "recipe_name": "Burger",
-          "ingredients": [
-              "burgger",
-              "fuska",
-              "chicken fry",
-              "rice noodles",
-              "fish sauce"
-          ],
-          "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
-          "rating": 4.5
-      },
-      {
-          "recipe_name": "magi noodles",
-          "ingredients": [
-              "rice noodles",
-              "cabab",
-              "bean sprouts",
-              "potato",
-              "eggs"
-          ],
-          "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
-          "rating": 4.8
-      },
-      {
-          "recipe_name": "Potatos",
-          "ingredients": [
-              "coconut milk",
-              "green curry paste",
-              "chicken",
-              "eggplant",
-              "popato"
-          ],
-          "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
-          "rating": 4.2
-      }
-  ]
-}
-  ]
+    {
+        "chef_picture": "data:image/jpeg;base64,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",
+        "id": 1,
+        "chef_name": "Md.Rahmot",
+        "years_of_experience": "15 years",
+        "number_of_recipes": 1250,
+        "likes": "15k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "chicken",
+                    "eggplant",
+                    "popato",
+                    "eggs"
+                ],
+                "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "data:image/jpeg;base64,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",
+        "id": 2,
+        "chef_name": "Md.Sobuj",
+        "years_of_experience": "7 years",
+        "number_of_recipes": 1000,
+        "likes": "40k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "chicken",
+                    "eggplant",
+                    "popato",
+                    "eggs"
+                ],
+                "cooking_method": "1. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n5. Add fish sauce, sugar, and tamarind paste. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "1. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "data:image/jpeg;base64,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",
+        "id": 3,
+        "chef_name": "Md.Masud",
+        "years_of_experience": "10 years",
+        "number_of_recipes": 1150,
+        "likes": "10k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "chicken",
+                    "eggplant",
+                    "popato",
+                    "eggs"
+                ],
+                "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nKISW1IUKcax8uQh8PwmCInlHjg5BS2ZPg&usqp=CAU",
+        "id": 4,
+        "chef_name": "Md.Ashiq",
+        "years_of_experience": "3 years",
+        "number_of_recipes": 1050,
+        "likes": "60k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "chicken",
+                    "eggplant",
+                    "popato",
+                    "eggs"
+                ],
+                "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0XMnjTZxnK5zwJkYYI582Td21uvNlgagYA&usqp=CAU",
+        "id": 5,
+        "chef_name": "Md.Sabbir",
+        "years_of_experience": "1 years",
+        "number_of_recipes": 1156,
+        "likes": "20k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "chicken",
+                    "eggplant",
+                    "popato",
+                    "eggs"
+                ],
+                "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR_STjEjvFDTTq8WWbO5KvK9iJRmsvuM5XA&usqp=CAU",
+        "id": 6,
+        "chef_name": "Emran",
+        "years_of_experience": "4 years",
+        "number_of_recipes": 1350,
+        "likes": "25k",
+        "description": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegetables and other dietary fibre such as whole grains.The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.\r\n",
+        "recipes": [
+            {
+                "recipe_name": "Burger",
+                "ingredients": [
+                    "burgger",
+                    "fuska",
+                    "chicken fry",
+                    "rice noodles",
+                    "fish sauce"
+                ],
+                "cooking_method": "1. Boil water in a pot. Add lemongrass, kaffir lime leaves, and galangal.\n2. Add chilies and cook for 1 minute.\n3. Add shrimp and cook until pink.\n4. Add fish sauce and lime juice. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "magi noodles",
+                "ingredients": [
+                    "rice noodles",
+                    "cabab",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "2. Soak rice noodles in water until soft. Drain.\n2. Heat oil in a wok. Add shrimp and tofu.\n3. Push the shrimp and tofu to the side of the wok. Crack the eggs in the center and scramble.\n4. Add rice noodles and bean sprouts. Toss everything together.\n",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Potatos",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "eggplant",
+                    "popato"
+                ],
+                "cooking_method": "3. Heat coconut milk in a pan. Add green curry paste.\n2. Add chicken and cook until no longer pink.\n3. Add eggplant and bamboo shoots. Cook until tender.\n4. Add fish sauce and sugar. Serve hot with rice.",
+                "rating": 4.2
+            }
+        ]
+    }
+]
