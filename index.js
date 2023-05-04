@@ -7,6 +7,9 @@ app.use(cors());
 
 const allFakeData = require("./fakeData.json");
 
+app.get('/', (req, res) =>{
+    res.send('server running')
+})
 app.get('/allData', (req, res) => {
     // console.log('fake data')
     res.send(allFakeData);
